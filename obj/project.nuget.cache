@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pQz+gle3IdSLFHZj67YbcxJGzwZPVUdq1lUqVVoa4/mUJEx4FjlDjbH4C7oO8Ql3GnC3fFdPT2xdpM76vWu8Zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thulf\\Desktop\\DGD203_2\\DGD203_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thulf\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\thulf\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\thulf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\thulf\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
